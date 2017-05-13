@@ -1,0 +1,12 @@
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTrade\AgroTrade\obj\Debug\AgroTrade.csprojResolveAssemblyReference.cache
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTrade\AgroTrade\bin\Debug\AgroTrade.dll.config
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTrade\AgroTrade\bin\Debug\AgroTrade.dll
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTrade\AgroTrade\bin\Debug\AgroTrade.pdb
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTrade\AgroTrade\bin\Debug\nunit.framework.dll
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTrade\AgroTrade\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTrade\AgroTrade\bin\Debug\nunit.framework.xml
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTrade\AgroTrade\obj\Debug\AgroTrade.dll
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTrade\AgroTrade\obj\Debug\AgroTrade.pdb
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTrade\AgroTrade\bin\Debug\AgroTradeApp.exe
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTrade\AgroTrade\bin\Debug\AgroTradeApp.pdb
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTrade\AgroTrade\bin\Debug\AgroTradeApp.exe.config
