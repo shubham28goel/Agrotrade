@@ -1,0 +1,16 @@
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTradeApp\AgroTradeApp\bin\Debug\AgroTradeApp.exe.config
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTradeApp\AgroTradeApp\bin\Debug\AgroTradeApp.exe
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTradeApp\AgroTradeApp\bin\Debug\AgroTradeApp.pdb
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTradeApp\AgroTradeApp\obj\Debug\AgroTradeApp.csprojResolveAssemblyReference.cache
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTradeApp\AgroTradeApp\obj\Debug\MainWindow.g.cs
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTradeApp\AgroTradeApp\obj\Debug\App.g.cs
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTradeApp\AgroTradeApp\obj\Debug\AgroTradeApp_MarkupCompile.cache
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTradeApp\AgroTradeApp\obj\Debug\AgroTradeApp_MarkupCompile.lref
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTradeApp\AgroTradeApp\obj\Debug\MainWindow.baml
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTradeApp\AgroTradeApp\obj\Debug\AgroTradeApp.g.resources
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTradeApp\AgroTradeApp\obj\Debug\AgroTradeApp.Properties.Resources.resources
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTradeApp\AgroTradeApp\obj\Debug\AgroTradeApp.csproj.GenerateResource.Cache
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTradeApp\AgroTradeApp\obj\Debug\AgroTradeApp.exe
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTradeApp\AgroTradeApp\obj\Debug\AgroTradeApp.pdb
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTradeApp\AgroTradeApp\obj\Debug\CreateProduct.g.cs
+c:\users\sgoel\documents\visual studio 2017\Projects\AgroTradeApp\AgroTradeApp\obj\Debug\CreateProduct.baml

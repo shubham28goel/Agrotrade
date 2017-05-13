@@ -8,7 +8,7 @@ namespace AgroTrade
     [Binding]
     public class TestingCreateProductSteps
     {
-        Product prod = new Product();
+        Product prod = new Product(); //testing
         ProductBL prodBL = new ProductBL();
 
         [Given(@"farmer ""(.*)"" has entered product ""(.*)""")]
